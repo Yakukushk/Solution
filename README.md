@@ -1,7 +1,6 @@
 # Solution
-1)Develop a simple frontend "Notes" application using Nuxt.js, TypeScript, and Tailwind CSS, following the Feature-Sliced Design (FSD) architecture.
----
-2)Create a responsive product card layout using HTML and CSS only, with cross-browser compatibility and according to the requirements below.
+- 1)Develop a simple frontend "Notes" application using Nuxt.js, TypeScript, and Tailwind CSS, following the Feature-Sliced Design (FSD) architecture.
+- 2)Create a responsive product card layout using HTML and CSS only, with cross-browser compatibility and according to the requirements below.
 
 # 🚀 Project Setup & Run Guide
 
